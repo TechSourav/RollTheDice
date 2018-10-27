@@ -1,0 +1,14 @@
+{
+  "fieldMappings": {
+    "noOfRolls": {
+      "description" : "number Of Rolls of dice",
+      "startDelimiter" : "0",
+      "endDelimiter" : "D"
+    },
+    "noOfSides": {
+      "description" : "number Of Sides in each dice",
+      "startDelimiter" : "D",
+      "endDelimiter" : "length"
+    }
+  }
+}
